@@ -1,11 +1,11 @@
-# React Notes App 📝
+# React Notes App 
 
 A modern and minimal **Notes Application** built using **React.js**, **Vite**, and **Tailwind CSS**.  
 This app allows users to quickly add, view, and delete notes with a clean and responsive UI.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Add notes with title and details  
 - Delete notes instantly  
