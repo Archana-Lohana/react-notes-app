@@ -1,5 +1,7 @@
 # React Notes App 
 
+[View Live Project](https://archana-lohana.github.io/react-notes-app/)
+
 A modern and minimal **Notes Application** built using **React.js**, **Vite**, and **Tailwind CSS**.  
 This app allows users to quickly add, view, and delete notes with a clean and responsive UI.
 
