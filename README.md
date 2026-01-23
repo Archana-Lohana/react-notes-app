@@ -55,6 +55,17 @@ npm run dev
 -> Styling using Tailwind CSS
 
 -> Using Git & GitHub for version control
+
+## 📚 What I Learned
+
+- Practical use of React useState hook  
+- Form handling in React  
+- Two-way data binding  
+- Dynamic add & delete notes  
+- Tailwind CSS styling  
+- Vite project setup  
+- GitHub Pages deployment  
+
 ## Future Improvements
 
 -> Edit notes functionality
